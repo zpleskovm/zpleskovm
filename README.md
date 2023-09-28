@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - :seedling: Прошла обучение на платформе ЯндексПрактикума по программе DataScience.
 
-- :zap: В свободное время я изучаю языки и занимаюсь скалолазанием.
+- :zap: В свободное время я изучаю иностранные языки и занимаюсь скалолазанием.
 
 - :mailbox: Со мной можно связаться: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zpleskovm)
 - :hammer_and_wrench: Языки программирования и умения :
@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 </div>
 
 :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zpleskovm&theme=dark&background=000000)](https://git.io/streak-stats)
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zpleskovm&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=zpleskovm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpleskovm)](https://github.com/anuraghazra/github-readme-stats)
